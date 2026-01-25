@@ -16,7 +16,7 @@ This repository contains the R code, spatial data, and outputs for a site suitab
 - Exeter_DTM_1m.tif – LiDAR Composite Digital Terrain Model (DTM), 1 m resolution (2022)
 - rofrs_4band_Exeter.shp – Risk of Flooding from Rivers and Sea shapefile  
 	The two datasets were sourced from https://environment.data.gov.uk
-- Data of road network, supermarkets, hospitals, and schools were retrieved from the OpenStreetMap through the API (see script)
+- Data of road network, supermarkets, hospitals, and schools were retrieved from the OpenStreetMap through the API using the osmdata R package 
 
 ## Outputs
 The "Outputs" folder contains exported raster, vector, and image files, including final map layouts created in QGIS.
