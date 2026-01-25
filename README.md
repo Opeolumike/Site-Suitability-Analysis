@@ -1,6 +1,6 @@
 # Project Title: Site Suitability Analysis for Sustainable Housing Developments in Exeter, Devon
 
-For any housing development to be termed "sustainable", it must be environmentally safe (i.e. safe from flooding and terrain risks) and socially accessible (i.e. within proximity to existing infrastructural developments).
+For any housing development to be termed "sustainable", it must be environmentally fit (i.e., safe from flooding and terrain risks) and socially accessible (i.e., within proximity to existing infrastructural developments).
 
 This study focused on Exeter, a city in Devon, South-West England with a population of 130,700 in 2021 as at the 2021 Census. In 2021, Exeter was home to around 19.8 people per football pitch-sized (approximately 7,140sqm) piece of land, compared with 17.9 in 2011. This area was among the top 25% most densely populated English local authority areas at the last census (How life has changed in Exeter: Census 2021). 
 
