@@ -1,6 +1,6 @@
 # Project Title: Site Suitability Analysis for Sustainable Housing Developments in Exeter, Devon
 
-This repository contains the R code, spatial data, and outputs for a site suitability analysis assessing potential locations for sustainable housing developments in Exeter, Devon.
+This repository contains the R code, spatial data, and outputs for a site suitability analysis assessing potential locations for sustainable housing developments in Exeter, Devon, United Kingdom.
 
 ## Files
 # Script
