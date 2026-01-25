@@ -15,7 +15,7 @@ This repository contains the R code, spatial data, and outputs for a site suitab
 ## Outputs
 The "Outputs" folder contains exported raster, vector, and image files, including final map layouts created in QGIS.
 The following layouts were designed in QGIS Layout Manager using vector and raster files generated from the analysis:
-- EXETER_HOSPITALS_PROXIMITY_LAYOUT"
+- EXETER_HOSPITALS_PROXIMITY_LAYOUT
 - EXETER_SUPERMARKETS_PROXIMITY_LAYOUT
 - EXETER_FLOOD_RISK_LAYOUT
 - EXETER_ROADS_PROXIMITY_LAYOUT
