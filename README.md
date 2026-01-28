@@ -31,7 +31,16 @@ The following layouts were designed in QGIS Layout Manager using vector and rast
 
 All remaining images were exported directly from the analysis results in RStudio.
 
-## How to Run
+## Results
+The constraint analysis successfully identified No-Build zones. The Slope Analysis (Figures 2 and 10) highlight the steep topography surrounding the Exe valley, specifically the hills to the northwest (Exwick) and the ridges to the east. When compared with the with the flood risk analysis (Figures 1 and 9), these constraints significantly reduce the available land for sustainable housing developments in Exeter.
+
+The final outputs aggregated the factors considered into single suitability map. The dark green areas represent sites that meet all four amenity criteria while avoiding all constraints. These prime locations are notably clustered around the Heavitree and Wonford (294,000E, 92,000N) areas. This score is driven largely by their score on the slope and flood analysis, including the hospital proximity which also overlaps with the dense road network and proximity to schools and supermarkets. 
+
+Unsurprisingly, most part of River Exe floodplain/Trew's Weir area (Approximately 291,500E, 91,000N) are marked unsuitable with a score of 0. However, small isolated clusters of suitable (green) pixels appear within this channel (see figures 8 and 15). These likely correspond to elevated embankments or islands between the river and the ship canal which fall outside the specific Defra flood risk vector used. Technically, these areas are safe for sustainable housing developments safe due to the model used for this analysis. However, a human planner would likely reject these sites due to lack of physical access, risk perception, and zoning. This highlights the limitation of a purely automated workflow.
+
+## This analysis successfully demonstrated that R can be used to build an effective and automated site suitability model for sustainable housing developments. Performing this task using a traditional GIS software such as QGIS or ArcGIS Pro would have taken twice the amount of time. Not only that, this model can be used for future analysis by just changing some values and variables and my results would be ready in minutes compared to spending several hours on desktop GIS software.
+
+## How to Run the Analysis
 Ensure the script and the data are located in the same working directory.  
 Run the script from the project root using relative file paths.
 
