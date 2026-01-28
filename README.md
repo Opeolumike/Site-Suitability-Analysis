@@ -38,7 +38,8 @@ The final outputs aggregated the factors considered into single suitability map.
 
 Unsurprisingly, most part of River Exe floodplain/Trew's Weir area (Approximately 291,500E, 91,000N) are marked unsuitable with a score of 0. However, small isolated clusters of suitable (green) pixels appear within this channel (see figures 8 and 15). These likely correspond to elevated embankments or islands between the river and the ship canal which fall outside the specific Defra flood risk vector used. Technically, these areas are safe for sustainable housing developments safe due to the model used for this analysis. However, a human planner would likely reject these sites due to lack of physical access, risk perception, and zoning. This highlights the limitation of a purely automated workflow.
 
-## This analysis successfully demonstrated that R can be used to build an effective and automated site suitability model for sustainable housing developments. Performing this task using a traditional GIS software such as QGIS or ArcGIS Pro would have taken twice the amount of time. Not only that, this model can be used for future analysis by just changing some values and variables and my results would be ready in minutes compared to spending several hours on desktop GIS software.
+## Conclusion
+This analysis successfully demonstrated that R can be used to build an effective and automated site suitability model for sustainable housing developments. Performing this task using a traditional GIS software such as QGIS or ArcGIS Pro would have taken twice the amount of time. Not only that, this model can be used for future analysis by just changing some values and variables and my results would be ready in minutes compared to spending several hours on desktop GIS software.
 
 ## How to Run the Analysis
 Ensure the script and the data are located in the same working directory.  
